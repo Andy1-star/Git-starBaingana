@@ -1,0 +1,36 @@
+.imagetext{
+	display: flex;
+	padding: 30px;
+	justify-content: space-between
+	
+}
+.generalcontainer{
+	background-color:teal;
+}
+img{
+	width: 400px; 
+	height: 400px; 
+	border-radius:15px;
+	
+	
+}
+
+h1{
+	padding-left:40px; font-size: 40px; 
+	font-family: roboto; color:white;margin-top:0px
+	
+}
+p{
+	padding-left: 40px; font-size: 15px;
+	font-family: roboto;color:black;
+	
+}
+button{
+	margin:40px; 
+	height:30px; 
+	font-size:15px;font-family: roboto; 
+	border:none;border-radius:5px;
+	
+	
+}
+button:hover{ background-color:orange;}
